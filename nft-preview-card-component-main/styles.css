@@ -1,0 +1,80 @@
+.body {
+    background-color: hsl(217, 54%, 11%);    
+    
+}
+
+.card {
+    width: fit-content;
+    block-size: auto;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 00px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: hsl(216, 50%, 16%);
+    position: relative;
+
+}
+
+.nft-image {
+    max-width: 300px;
+    max-height: auto;
+    
+
+}
+
+h1{
+    color:white;
+}
+
+p {
+    color:hsl(215, 51%, 70%);
+}
+
+.avatar {
+    max-width: 30px;
+    border: 2px solid white;
+    border-radius: 50%; 
+    position: absolute;
+    margin-bottom: 800px;
+}
+
+hr {
+    height: 1px;
+    background-color:hsl(215, 51%, 70%);
+    border: none;
+    margin-top: 30px;
+}
+
+#eth{
+    color:hsl(178, 100%, 50%);
+    position: absolute;
+    left: 55px;
+    bottom: 122px;
+}
+
+#days{
+    position: absolute;
+    left: 270px;
+    bottom: 122px;
+    
+}
+
+.clockicon{
+    margin-left: 200px;
+}
+
+#creation {
+    margin-left: 50px;
+    margin-top: 35px;
+    padding-top: 9px;
+    font-size: small;
+}
+
+    
+.footer{
+    font-size: x-small;
+    color: white;
+    text-align: center;
+}
+
